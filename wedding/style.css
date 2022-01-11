@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+.headen {
+    font-size: 80px;
+    text-align: center;  
+}
+.name{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20px; 
+}
+.join{
+    
+    text-align: center;
+    font-size: 12px; 
+}
+.date{
+    text-align: center;
+    font-size: 25px;
+}
+.main{
+    background-color: rgba(194, 193, 189, 0.377);
+    height: 550px;
+    width: 500px;
+    margin: auto;
+    padding-top: 70px;
+}
+.pleace{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 30px;
+}
+.reception{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+    

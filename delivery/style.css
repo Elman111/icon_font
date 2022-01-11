@@ -1,0 +1,30 @@
+.delivery{
+    width: 280px;
+    height: 230px;
+  border-top-right-radius: 35%;
+  border-bottom-left-radius: 35%;
+  background-color: rgb(151, 72, 35);
+  text-align: center;
+  margin-top: 150px;
+  margin-left: 590px;
+ }
+ .delivery i{
+     margin-top: 40px;
+     color: white;
+ }
+ .slogan h2{
+     padding-left: 555px;
+ font-size: 40px;
+     
+ }
+ 
+ .metn p{
+     padding-left: 480px;
+     width: 550px;
+     text-align: center;
+     color: black;
+     font-size: 25px;
+     padding-top: 20px;
+     
+ 
+ }
